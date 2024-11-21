@@ -1,7 +1,8 @@
-diabetes-https://colab.research.google.com/drive/1NuwmaVccyYuNL_pxY2p4ccbMoej1IVbd
+diabetes-
+https://colab.research.google.com/drive/1FsYAQBWEd4eiKL_8KnNDyF03JozStXL5
 
 Heartdiseases-
-https://colab.research.google.com/drive/1UzbUen5uaZPzMV9NE9xjV9_G-zKeOZFA
+https://colab.research.google.com/drive/1cnQIOzZhguMv3LNejjTBik0uVYDHdxnu
 
 parkinson's-
 https://colab.research.google.com/drive/1un354b9_mSULA6h3BNSRUgJwWmUbEvtR
